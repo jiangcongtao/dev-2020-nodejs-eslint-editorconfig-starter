@@ -9,6 +9,7 @@ npm install -g eslint
 eslint --init
 ```
 
+## Visual Studio Code Extension
 Install the following extensions into Visual Studio code:
 - Name: ESLint
 Id: dbaeumer.vscode-eslint
@@ -16,6 +17,10 @@ Description: Integrates ESLint JavaScript into VS Code.
 Version: 2.1.5
 Publisher: Dirk Baeumer
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+
+## Visual Studio Code Configuration
+- Tab Size: 2
+- Default document formatter: ESlint
 
 ## Reference
 - Airbnb JavaScript Style Guide
