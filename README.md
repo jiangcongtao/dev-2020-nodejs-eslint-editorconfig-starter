@@ -18,6 +18,13 @@ Version: 2.1.5
 Publisher: Dirk Baeumer
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 
+- Name: EditorConfig for VS Code
+Id: editorconfig.editorconfig
+Description: EditorConfig Support for Visual Studio Code
+Version: 0.14.5
+Publisher: EditorConfig
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+
 ## Visual Studio Code Configuration
 - Tab Size: 2
 - Default document formatter: ESlint
