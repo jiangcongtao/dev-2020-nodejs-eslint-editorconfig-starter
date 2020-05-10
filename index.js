@@ -6,4 +6,6 @@ console.log(person)
 
 console.log('Node.JS with ESlint setup');
 
-const sy
+const sayHelloLinting = (fName) => {
+console.log(`Hello linting, ${fName}`);
+}
