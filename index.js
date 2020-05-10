@@ -1,3 +1,8 @@
+const { method1, method2 } = require('./lib');
+
+method1('Nick');
+method2('Jiang');
+
 const name = 'Nick';
 const person = {
   first: name,
